@@ -28,4 +28,37 @@ h1{
   height: 1000px;
   background-color: white;
   margin-top: 70px;
+  border-radius: 10px;
+}
+
+.pulsanti{
+    margin-bottom: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-bottom: 3px solid #f5f8f9;
+}
+
+.button-1{
+  background-color: #44abea;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 6px;
+  margin-left: 70px;
+  
+}
+
+.button-2{
+    background-color: white;
+    border:1px solid gray;
+    color: gray;
+    padding: 10px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 6px; 
+    margin-left: 5px;
 }
