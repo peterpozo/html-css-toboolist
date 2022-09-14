@@ -94,6 +94,56 @@ ul {
     margin-top: 0px;
     margin-bottom: 0px;
 }
+.casella-2{
+    background-color:violet ;
+    color: white;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.casella-3{
+    background-color:green ;
+    color: white;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.casella-4{
+    background-color:orange ;
+    color: white;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.casella-5{
+    background-color:palevioletred ;
+    color: white;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.casella-6{
+    background-color:lightgreen;
+    color: white;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 .row-1{
     display: inline-block;
 }
